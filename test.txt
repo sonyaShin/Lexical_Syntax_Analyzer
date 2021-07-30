@@ -1,0 +1,8 @@
+{
+hug=20;
+hug / 2 = 234.5;
+hug_hard = 400 % 300;
+hug == love;
+love != fight;
+love > money;
+}
